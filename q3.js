@@ -12,3 +12,4 @@ db.products.insertMany([
     discription: "The Samsung Galaxy S23 is a flagship smartphone that offers cutting-edge technology, stunning design, and powerful performance. It features a high-resolution display, advanced camera system, and long-lasting battery life.",
   },
 ]);
+db.products.find();
