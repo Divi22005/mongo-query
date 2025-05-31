@@ -1,4 +1,3 @@
-
 db.employees.createIndex({email:1})
 db.employees.getIndexes()
  db.employees.dropIndex("email_1")

@@ -1,4 +1,3 @@
-
 db.employees.find({ department: "IT" });
 db.employees.find({ department: { $eq: "IT" } });
 db.employees.find({ department: { $ne: "IT" } });

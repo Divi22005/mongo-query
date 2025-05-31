@@ -1,4 +1,3 @@
-
 db.employees.insertMany([
   {
     name: "Brian C",
